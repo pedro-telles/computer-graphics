@@ -7,3 +7,5 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 ### OpenGL
 
 - [Pirâmide / Cone]()
+- [Prisma / Cilindro]()
+- [Sólidos de Revolução]()
