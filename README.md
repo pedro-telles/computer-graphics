@@ -4,7 +4,12 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 
 ### Processing
 
+##### Todo o código do Processing foi executado usando o próprio Processing.
+
+
 ### OpenGL
+
+##### Todo o código do OpenGL foi executado usando o VS Code.
 
 - [Pirâmide / Cone](https://github.com/pedro-telles/computer-graphics/tree/main/Piramide%20-%20Cone)
 - [Prisma / Cilindro](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Prisma%20-%20Cilindro)
