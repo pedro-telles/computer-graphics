@@ -11,6 +11,6 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 
 ##### Todo o código do OpenGL foi executado usando o VS Code.
 
-- [Pirâmide / Cone](https://github.com/pedro-telles/computer-graphics/tree/main/Piramide%20-%20Cone)
+- [Pirâmide / Cone](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Piramide%20-%20Cone)
 - [Prisma / Cilindro](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Prisma%20-%20Cilindro)
-- [Sólidos de Revolução](https://github.com/pedro-telles/computer-graphics/tree/main/Solidos%20de%20Revolu%C3%A7%C3%A3o)
+- [Sólidos de Revolução](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Solidos%20de%20Revolu%C3%A7%C3%A3o)
