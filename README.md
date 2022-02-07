@@ -8,4 +8,4 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 
 - [Pirâmide / Cone]()
 - [Prisma / Cilindro]()
-- [Sólidos de Revolução]()
+- [Sólidos de Revolução](https://github.com/pedro-telles/computer-graphics/tree/main/Solidos%20de%20Revolu%C3%A7%C3%A3o)
