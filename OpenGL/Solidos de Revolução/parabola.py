@@ -102,7 +102,7 @@ def timer(i):
     glutPostRedisplay()
     glutTimerFunc(50,timer,1)
 
-# PROGRAMA PRINCIPAL
+# MAIN
 glutInit(sys.argv)
 glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH | GLUT_MULTISAMPLE)
 glutInitWindowSize(800,600)
@@ -115,5 +115,3 @@ gluPerspective(45,800.0/600.0,0.1,100.0)
 glTranslatef(0.0,0.0,-25)
 glutTimerFunc(50,timer,1)
 glutMainLoop()
-
-
