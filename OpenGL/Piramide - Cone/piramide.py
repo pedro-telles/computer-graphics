@@ -3,8 +3,8 @@ from OpenGL.GLU import *
 from OpenGL.GL import *
 import math
 
-colors = {'YELLOW': (1.,.7,.0),
-		  'DARK-YELLOW': (.2,.2,0),
+colors = {'RED': (7.,.1,.0),
+		  'DARK-RED': (.2,0,0),
 		  'BLACK': (.0,.0,0)}
 radius = 5
 angle = 0.1
@@ -21,7 +21,7 @@ def draw_base():
 	# DESENHA A BASE
 	glBegin(GL_TRIANGLE_FAN)
 
-	glColor3fv(colors['DARK-YELLOW'])
+	glColor3fv(colors['DARK-RED'])
 	glVertex3f(0,0,0)
 
 	vertex = []
@@ -60,10 +60,10 @@ def draw_sides(vertex):
 	top = (0,height,0)
 	x,y,z = top
 
-	glColor3fv(255,0,0)
+	glColor3fv(colors['RED'])
 	glVertex3f(x,y,z)
 	
-	glColor3fv(colors['YELLOW'])
+	glColor3fv(colors['DARK-RED'])
 	
 	for v in vertex:
 		x,y,z = v
@@ -82,7 +82,7 @@ def draw_sides(vertex):
 		glEnd()
 
 def mouse_click_effects(button, state, x, y):
-	global height, total_sides
+	global height, total_sides, angle_view
 
 	if button == 0 and state == 0 and total_sides < max_sides:
 		total_sides += 1
@@ -114,7 +114,7 @@ def timer(i):
 
 def config():
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH | GLUT_MULTISAMPLE)
-	glutInitWindowSize(1000,800)
+	glutInitWindowSize(800,800)
 	glutCreateWindow("Piramide")
 	glutDisplayFunc(draw)
 	glutMouseFunc(mouse_click_effects)
