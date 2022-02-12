@@ -6,6 +6,8 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 
 ##### Todo o código do Processing foi executado usando o próprio Processing.
 
+- [Espiral](https://github.com/pedro-telles/computer-graphics/tree/main/processing/espiral)
+- [Sol_Terra_Lua](https://github.com/pedro-telles/computer-graphics/tree/main/processing/sol_terra_lua)
 
 ### OpenGL
 
