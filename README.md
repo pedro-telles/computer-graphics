@@ -8,6 +8,7 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 
 - [Espiral](https://github.com/pedro-telles/computer-graphics/tree/main/processing/espiral)
 - [Sol_Terra_Lua](https://github.com/pedro-telles/computer-graphics/tree/main/processing/sol_terra_lua)
+- [Bezier](https://github.com/pedro-telles/computer-graphics/blob/main/processing/bezier/bezier.pde)
 
 ### OpenGL
 
