@@ -18,8 +18,6 @@ Repositório dedicado a codificação feita para a matéria de computação grá
 - [Prisma](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Prisma%20-%20Cilindro)
 - [Sólidos de Revolução](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Solidos%20de%20Revolu%C3%A7%C3%A3o)
 
-######## Trabalho 2
-
 - [Cubo com textura](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Textura/Cubo)
 - [Esfera com textura](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Textura/Esfera)
 - [Prisma Iluminado](https://github.com/pedro-telles/computer-graphics/tree/main/OpenGL/Iluminado/Prisma)
