@@ -6,7 +6,7 @@ from Sphere import Sphere, rotate, set_angle, angle
 import numpy
 
 textures_files = {
-    'earth': 'terra.png',
+    'earth': 'computer-graphics\\OpenGL\\Textura\\terra.png',
 }
 
 tx = Texture(textures_files, 'Terra', 1000, 800)

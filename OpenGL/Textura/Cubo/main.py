@@ -4,7 +4,7 @@ from OpenGL.GLUT import *
 from OpenGL.GLU import *
 
 textures_files = {
-    'dice': 'dado.png',
+    'dice': 'computer-graphics\\OpenGL\\Textura\\dado.png',
 }
 
 tx = Texture(textures_files, 'Dado', 1000, 800)
