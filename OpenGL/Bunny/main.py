@@ -90,7 +90,7 @@ def config():
 
 if __name__ == '__main__':
 
-	object = PLYReader('bunny.ply')
+	object = PLYReader('computer-graphics\\OpenGL\\Bunny\\bunny.ply')
 	header, data = object.extract_data()
 	glutInit(sys.argv)
 	config()
